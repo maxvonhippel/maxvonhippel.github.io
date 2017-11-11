@@ -1,6 +1,5 @@
 install:
 	npm install -g ghcal
-	npm i stackoverflow-card
 
 run:
 	echo "Please make sure Safari is already in full-screen."
@@ -11,4 +10,4 @@ run:
 	open "https://stackoverflow.com/users/1586231/max-von-hippel?tab=reputation"
 	screencapture -s -t png stackoverflow.png
 	echo "Step 3: Opening Markdown"
-	open RESUME.md
+	open README.md
