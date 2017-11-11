@@ -35,4 +35,3 @@
 **This Resume**
 
 This resume is open-source.  Anyone can use, modify, and iterate on the code which built this resume free of charge.  The repository is made freely available under GNU license [here](https://github.com/maxvonhippel/resume).
-<br> --- <br>*Last updated: Sat Nov 11 00:56:20 MST 2017*
