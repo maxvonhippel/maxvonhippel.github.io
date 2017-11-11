@@ -15,7 +15,7 @@
 * **Kathmandu Living Labs** `|` Software Engineering Intern `10/16` - `12/16`
 	* Built open-source [server](https://github.com/maxvonhippel/OSMHistoryServer) and [client](https://github.com/maxvonhippel/NepalOSMHistory) for visualization of contribution metrics for mappers on the OpenStreetMap platform in Nepal.
 * **RES3D & Capture Interactive** `|` Software Engineer `10/12` - `10/17`
-	* Built and helped build numerous projects in `Unity3D`, `iOS Objective-C`, `ES5 Javascript`, and `Windows C#` incorporating [natural user interfaces](https://vimeo.com/132862551) and [augmented](https://vimeo.com/194551673) and virtual reality systems for clients including [General Electric](http://mxvh.pl/GE/), [Fox Entertainment](https://www.polygon.com/2014/7/31/5946153/x-men-pacific-rim-oculus-rift-comic-con), The Muppets franchise, and BP.  RES3D and Capture Interactive were sister companies during most of my time working at both; they split apart in 2014, and I continue to subcontract on occaision for Capture Interactive.
+	* Built and helped build numerous projects in `Unity3D`, `iOS Objective-C`, `ES5 Javascript`, and `Windows C#` incorporating [natural user interfaces](https://vimeo.com/132862551) and [augmented](https://vimeo.com/194551673) and virtual reality systems for clients including [General Electric](http://mxvh.pl/GE/), [Fox Entertainment](https://www.polygon.com/2014/7/31/5946153/x-men-pacific-rim-oculus-rift-comic-con), The Muppets franchise, and BP.  RES3D and Capture Interactive were sister companies during most of my time working at both; they split apart in 2014, and I continue to subcontract on occasion for Capture Interactive.
 
 **Education**
 
