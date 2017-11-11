@@ -34,4 +34,4 @@
 
 **This Resume**
 
-This resume is open-source.  Anyone can use, modify, and iterate on the code which built this resume free of charge.  The repository is made freely available under MIT license [here]().
+This resume is open-source.  Anyone can use, modify, and iterate on the code which built this resume free of charge.  The repository is made freely available under GNU license [here](https://github.com/maxvonhippel/resume).
