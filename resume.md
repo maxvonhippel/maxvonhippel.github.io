@@ -19,7 +19,7 @@
 
 **Education**
 
-* **University of Arizona - Honors College** `|` Candidate for Bachelor of Science in Mathematics, GPA 4.0 `01/17` - `Present`
+* **University of Arizona - Honors College** `|` Candidate for Bachelor of Science in Mathematics & Bachelor of Science in Computer Science, GPA 4.0 `01/17` - `Present`
 * **Dartmouth College** `|` Studied Mathematics & Computer Science, GPA 3.6 `11/15` - `06/16`
 * **United World College Costa Rica** `|` Shelby Davis Scholar, Awarded Bilingual International Baccalaureate diploma, GPA 3.7 `08/14` - `05/15`
 
