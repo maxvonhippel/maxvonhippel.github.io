@@ -1,5 +1,6 @@
 
 ## Max von Hippel
+
 **Site:** [mxvh.pl](http://mxvh.pl)<br>
 **Github:** `@maxvonhippel` 
 ![Github Banner](github.png)
@@ -30,13 +31,9 @@
 
 ### Publications
 
-<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1038/s41587-019-0209-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Evan Bolyen, Jai Ram Rideout, […], Max von Hippel, [...], J. Gregory Caporaso (2019): [Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2](https://www.nature.com/articles/s41587-019-0209-9).  Nature Biotechnology.
 
-Evan Bolyen, Jai Ram Rideout, […], Max von Hippel, [...], J. Gregory Caporaso (2019): <i>Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2</i>.  Nature Biotechnology.
-
-<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.3389/feart.2019.00171" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-von Hippel, Max; Harig, Christopher (2019): <i>Long-Term and Inter-annual Mass Changes in the Iceland Ice Cap Determined From GRACE Gravity Using Slepian Functions</i>. Frontiers. Collection.
+von Hippel, Max; Harig, Christopher (2019): [Long-Term and Inter-annual Mass Changes in the Iceland Ice Cap Determined From GRACE Gravity Using Slepian Functions](https://www.frontiersin.org/articles/10.3389/feart.2019.00171/full). Frontiers. Collection.
 
 ### References
 
