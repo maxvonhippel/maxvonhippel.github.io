@@ -24,7 +24,7 @@
 
 ### Education
 
-* **Northeastern University- Khoury College of Computer Science** `|` Candidate for Ph.D. in Computer Science.  Advised by Dr. Stavros Tripakis and Dr. Cristina Nita-Rotaru.
+* **Northeastern University - Khoury College of Computer Science** `|` Candidate for Ph.D. in Computer Science.  Advised by Dr. Stavros Tripakis and Dr. Cristina Nita-Rotaru.
 * **University of Arizona - Honors College** `|` Bachelor of Science in Mathematics & Bachelor of Science in Computer Science, GPA 3.8 `01/17` - `05/19`
 * **Dartmouth College** `|` Studied Mathematics & Computer Science, GPA 3.6 `11/15` - `06/16`
 * **United World College Costa Rica** `|` Shelby Davis Scholar, Awarded Bilingual International Baccalaureate diploma, GPA 3.7 `08/14` - `05/15`
