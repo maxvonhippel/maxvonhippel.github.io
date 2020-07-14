@@ -1,9 +1,8 @@
 
 ## Max von Hippel
-
 **Site:** [mxvh.pl](http://mxvh.pl)<br>
 **Github:** `@maxvonhippel` 
-![Github Banner](github.png)
+<!-- ![Github Banner](github.png) -->
 **Stack Overflow:** `uid=1586231`
 ![Stack Overflow Banner](stackoverflow.png)
 
@@ -24,16 +23,33 @@
 
 ### Education
 
-* **Northeastern University - Khoury College of Computer Science** `|` Candidate for Ph.D. in Computer Science.  Advised by Dr. Stavros Tripakis and Dr. Cristina Nita-Rotaru.
+* **Northeastern University- Khoury College of Computer Science** `|` Candidate for Ph.D. in Computer Science.  Advised by Dr. Cristina Nita-Rotaru.
 * **University of Arizona - Honors College** `|` Bachelor of Science in Mathematics & Bachelor of Science in Computer Science, GPA 3.8 `01/17` - `05/19`
 * **Dartmouth College** `|` Studied Mathematics & Computer Science, GPA 3.6 `11/15` - `06/16`
 * **United World College Costa Rica** `|` Shelby Davis Scholar, Awarded Bilingual International Baccalaureate diploma, GPA 3.7 `08/14` - `05/15`
 
 ### Publications
 
-Evan Bolyen, Jai Ram Rideout, […], Max von Hippel, [...], J. Gregory Caporaso (2019): [Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2](https://www.nature.com/articles/s41587-019-0209-9).  Nature Biotechnology.
+<div data-badge-details="right" data-badge-type="large-donut" data-doi="arXiv:2004.01220v3" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-von Hippel, Max; Harig, Christopher (2019): [Long-Term and Inter-annual Mass Changes in the Iceland Ice Cap Determined From GRACE Gravity Using Slepian Functions](https://www.frontiersin.org/articles/10.3389/feart.2019.00171/full). Frontiers. Collection.
+von Hippel, Max and Vick, Cole and Tripakis, Stavros and Nita-Rotaru, Cristina. "Automated Attacker Synthesis for Distributed Protocols," 39th International Conference on Computer Safety, Reliability and Security (SAFECOMP), 2020.
+
+<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1038/s41587-019-0209-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+Evan Bolyen, Jai Ram Rideout, […], Max von Hippel, [...], J. Gregory Caporaso (2019): <i>Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2</i>.  Nature Biotechnology.
+
+<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.3389/feart.2019.00171" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+von Hippel, Max; Harig, Christopher (2019): <i>Long-Term and Inter-annual Mass Changes in the Iceland Ice Cap Determined From GRACE Gravity Using Slepian Functions</i>. Frontiers. Collection.
+
+## Honors & Awards
+
+* Awarded NSF Graduate Research Fellowship, begins disbursement Fall 2020.
+* Awarded 2018/2019 “Excellence in Research” award by University of Arizona Mathematics Department following nomination by Dr. Bryden Cais.
+* Awarded 2018 Lusk Award for excellence in mathematics by University of Arizona Mathematics Department, $1,000.
+* Awarded “Best Solo Project” at the 2017 and 2019 University of Arizona Computer Science Undergraduate Project Showcases.
+* Nominated by the University of Arizona Honors College for Truman Scholarship and Goldwater Scholarship (Spring 2018).
+* Awarded BlackHat Student Briefings Pass following nomination by Dr. Sergey Bratus of DARPA and Dartmouth College (August 2016).
 
 ### References
 
