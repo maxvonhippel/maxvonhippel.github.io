@@ -1,8 +1,6 @@
 
 ## Max von Hippel
-**Site:** [mxvh.pl](http://mxvh.pl)<br>
-**Github:** `@maxvonhippel` 
-<!-- ![Github Banner](github.png) -->
+**Site:** [mxvh.pl](http://mxvh.pl)<br>**Github:** `@maxvonhippel` 
 **Stack Overflow:** `uid=1586231`
 ![Stack Overflow Banner](stackoverflow.png)
 
@@ -30,17 +28,14 @@
 
 ### Publications
 
-<div data-badge-details="right" data-badge-type="large-donut" data-doi="arXiv:2004.01220v3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* Pacheco, Maria Lenore and von Hippel, Max and Weintraub, Ben and Goldwasser, Dan and Nita-Rotaru, Cristina.  [Automated Attack Synthesis by Extracting Finite State Machines from Protocol Specification Documents](https://github.com/RFCNLP), 43rd IEEE Symposium on Security and Privacy (SP22), 2022.
+* von Hippel, Max and Vick, Cole and Tripakis, Stavros and Nita-Rotaru, Cristina. [Automated Attacker Synthesis for Distributed Protocols](https://arxiv.org/abs/2004.01220), 39th International Conference on Computer Safety, Reliability and Security (SAFECOMP), 2020.
+* Evan Bolyen, Jai Ram Rideout, […], Max von Hippel, [...], J. Gregory Caporaso. [Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2](https://www.nature.com/articles/s41587-019-0209-9).  Nature Biotechnology, 2019.
+* von Hippel, Max; Harig, Christopher. [Long-Term and Inter-annual Mass Changes in the Iceland Ice Cap Determined From GRACE Gravity Using Slepian Functions](https://www.frontiersin.org/articles/10.3389/feart.2019.00171/full). Frontiers, 2019. Collection.
 
-von Hippel, Max and Vick, Cole and Tripakis, Stavros and Nita-Rotaru, Cristina. "Automated Attacker Synthesis for Distributed Protocols," 39th International Conference on Computer Safety, Reliability and Security (SAFECOMP), 2020.
+### Presentations
 
-<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.1038/s41587-019-0209-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-Evan Bolyen, Jai Ram Rideout, […], Max von Hippel, [...], J. Gregory Caporaso (2019): <i>Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2</i>.  Nature Biotechnology.
-
-<div data-badge-details="right" data-badge-type="large-donut" data-doi="10.3389/feart.2019.00171" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-von Hippel, Max; Harig, Christopher (2019): <i>Long-Term and Inter-annual Mass Changes in the Iceland Ice Cap Determined From GRACE Gravity Using Slepian Functions</i>. Frontiers. Collection.
+* _Automated Attacker Synthesis for Distributed Protocols_.  Presented in English to University of Arizona Mathematics Seminar, Northeastern NDS2 Seminar, MIT CSAIL Security Seminar, and University of Connecticut Security Seminar, and in Spanish to Universidad del Valle de Guatemala Mathematics Seminar.
 
 ## Honors & Awards
 
@@ -59,7 +54,3 @@ von Hippel, Max; Harig, Christopher (2019): <i>Long-Term and Inter-annual Mass C
 * Dr. Nama Raj Budhathoki, Executive Director of Kathmandu Living Labs:
 `namabudhathoki@gmail.com`
 * Dr. Greg Caporaso, Principal Investigator & Associate Professor in the Pathogen Microbiome Institute at Northern Arizona University: `gregcaporaso@gmail.com`
-
-#### This Resume
-
-This resume is open-source.  Anyone can use, modify, and iterate on the code which built this resume free of charge.  The repository is made freely available under GNU license [here](https://github.com/maxvonhippel/resume).
