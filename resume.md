@@ -2,7 +2,6 @@
 ## Max von Hippel
 **Site:** [mxvh.pl](http://mxvh.pl)<br>**Github:** `@maxvonhippel` 
 **Stack Overflow:** `uid=1586231`
-![Stack Overflow Banner](stackoverflow.png)
 
 ### Education
 
