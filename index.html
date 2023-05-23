@@ -29,6 +29,22 @@
             tr.spaceUnder>td {
                 padding-bottom: 1em;
             }
+
+            /* https://stackoverflow.com/a/64127605/1586231 */
+            mark {
+              margin: 0 -0.4em;
+              padding: 0.1em 0.4em;
+              border-radius: 0.8em 0.3em;
+              background: transparent;
+              background-image: linear-gradient(
+                to right,
+                rgba(255, 225, 0, 0.1),
+                rgba(255, 225, 0, 0.7) 4%,
+                rgba(255, 225, 0, 0.3)
+              );
+              -webkit-box-decoration-break: clone;
+              box-decoration-break: clone;
+            }
         </style>
     </head>
     <body style="background-color:white;">
@@ -43,7 +59,7 @@
             <tr class="spaceUnder">
                 <!-- Karn -->
                 <td valign="middle" align="center"><img width="60" src="emojis/package.svg" alt="reading"></td>
-                <td>A Formal Analysis of Karn’s Algorithm, by Max von Hippel, <a href="https://mcmil.net/">Kenneth L. McMillan</a>, <a href="https://cnitarot.github.io/">Cristina Nita-Rotaru</a>, & <a href="https://www.cs.uic.edu/~lenore/">Lenore Zuck</a>.  NETYS 2023. [<a href="https://github.com/rto-karn/rto-karn">CODE</a>]</td>
+                <td>A Formal Analysis of Karn’s Algorithm, by Max von Hippel, <a href="https://mcmil.net/">Kenneth L. McMillan</a>, <a href="https://cnitarot.github.io/">Cristina Nita-Rotaru</a>, & <a href="https://www.cs.uic.edu/~lenore/">Lenore Zuck</a>.  <mark>Best Paper Award!</mark> NETYS 2023. [<a href="https://github.com/rto-karn/rto-karn">CODE</a>]</td>
             </tr>
             <tr class="spaceUnder">
                 <!-- HoLA -->
