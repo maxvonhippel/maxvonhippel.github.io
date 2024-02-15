@@ -50,18 +50,6 @@
                     var converter = new showdown.Converter();
                     var html = converter.makeHtml(response);
 
-                    // Make anything in [bold]...[/bold] be bolded in the response
-                    html = html.replace(/\[bold\](.*?)\[\/bold\]/g, '<strong>$1</strong>');
-
-                    // Make anything in [green]...[/green] be colored green in the response
-                    html = html.replace(/\[green\](.*?)\[\/green\]/g, '<span style="color:green;">$1</span>');
-
-                    // Make anything in [red]...[/red] be colored red in the response
-                    html = html.replace(/\[red\](.*?)\[\/red\]/g, '<span style="color:red;">$1</span>');
-
-                    // Make anything in [italic]...[/italic] be italicized in the response
-                    html = html.replace(/\[italic\](.*?)\[\/italic\]/g, '<em>$1</em>');
-
                     // Replace emoji codes such as :mosquito: with the actual corresponding emojis
                     // Assuming you have a function or library to map emoji codes to actual emojis
                     // For simplicity, here's a basic implementation that needs to be expanded based on available emojis
@@ -71,6 +59,21 @@
                                .replace(/:mosquito:/g,               '🦟')
                                .replace(/:cross_mark:/g,             '❌')
                                .replace(/:white_heavy_check_mark:/g, '✅');
+
+                    // Make anything in [bold]...[/bold] be bolded in the response
+                    html = html.replace(/\[bold\](.*?)\[\/bold\]/g, '<strong>$1</strong>');
+
+                    // Make anything in [green]...[/green] be colored green in the response
+                    html = html.replace(/\[green\](.*?)\[\/green\]/g, '<span style="color:green;">$1</span>');
+
+                    // Make anything in [yellow]...[/yellow] be colored yellow in the response
+                    html = html.replace(/\[yellow\](.*?)\[\/yellow\]/g, '<span style="color:yellow;">$1</span>');
+
+                    // Make anything in [red]...[/red] be colored red in the response
+                    html = html.replace(/\[red\](.*?)\[\/red\]/g, '<span style="color:red;">$1</span>');
+
+                    // Make anything in [italic]...[/italic] be italicized in the response
+                    html = html.replace(/\[italic\](.*?)\[\/italic\]/g, '<em>$1</em>');
 
                     $('#output').html(html); // Use .html() to set the HTML content
                 },
