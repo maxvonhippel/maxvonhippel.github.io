@@ -41,6 +41,7 @@
 
         function sendRequest(function_str) {
             var url = "https://benchify.fly.dev/analyze";
+            $('#output').text("Thinking .... (should take about a minute)");
             $.ajax({
                 url: url,
                 type: 'GET',
