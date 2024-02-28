@@ -50,16 +50,6 @@
                     var converter = new showdown.Converter();
                     var html = converter.makeHtml(response);
 
-                    // Replace emoji codes such as :mosquito: with the actual corresponding emojis
-                    // Assuming you have a function or library to map emoji codes to actual emojis
-                    // For simplicity, here's a basic implementation that needs to be expanded based on available emojis
-                    html = html.replace(/:mosquito:/g,               '🦟')
-                               .replace(/:lady_beetle:/g,            '🐞')
-                               .replace(/:beetle:/g,                 '🪲')
-                               .replace(/:mosquito:/g,               '🦟')
-                               .replace(/:cross_mark:/g,             '❌')
-                               .replace(/:white_heavycheckmark:/g,   '✅');
-
                     // Make anything in [bold]...[/bold] be bolded in the response
                     html = html.replace(/\[bold\](.*?)\[\/bold\]/g, '<strong>$1</strong>');
 
